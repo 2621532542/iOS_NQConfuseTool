@@ -3,7 +3,7 @@ iOS代码混淆(iOS_NQConfuseTool)是一款新一代运行在MAC OS平台的App�
 
 # 前言
 最近在看了不少的代码混淆， 就自己尝试的自己写了一个，
-<div align=center><img src="https://github.com/2621532542/iOS_NQConfuseTool/blob/master/%E6%88%AA%E5%B1%8F2019-11-25%E4%B8%8B%E5%8D%885.40.11.png" width = "100" height = "100"/></div></br>
+<div align=center><img src="https://github.com/2621532542/iOS_NQConfuseTool/blob/master/%E6%88%AA%E5%B1%8F2019-11-25%E4%B8%8B%E5%8D%885.40.11.png" width = "888" height = "666"/></div></br>
 
 # MGTemplateEngine
 MGTemplateEngine是mac平台下的一个代码生成器工具，根据模板和数据自动生成结果。它的使用很简单，语法比较灵活。

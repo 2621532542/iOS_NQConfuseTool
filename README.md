@@ -32,7 +32,7 @@ MGTemplateEngine还提供更强大的规则和语法，详细信息请前往官�
 
 	
 # 总结
-工具免费用，有问题可以留言联系，我看到及时更新。
+工具免费用，全程无连网，使用安全放心，有问题可以留言联系，我看到及时更新和回复。
 
 掌握了代码混淆器的基本使用，我们就可以在遇到类似的场景，做出自己的自动处理方法。文档是copy[https://github.com/superzcj/ZCJTemplateTool](https://github.com/superzcj/ZCJTemplateTool) 的，添加垃圾代码功能也是看的这位大佬的，没写过文档，短时间也懒的学，就先随便弄弄。 
 

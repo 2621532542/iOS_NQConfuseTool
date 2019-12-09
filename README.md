@@ -2,7 +2,7 @@
 iOS代码混淆(iOS_NQConfuseTool)是一款运行在MACOS平台的App、完美支持OC和Swift项目代码的自动混淆、支持、文件名、修改资源文件、类名、方法名、属性名、添加混淆函数方法体、添加混淆属性、自动调用生成的混淆代码，功能强大而稳定，全局自动化。马甲包混淆工具，最重要的是完全免费。（随机单词拼接）
 
 # 前言
-最近在看了不少的代码混淆， 就自己尝试的自己写了一个，
+最近在看了不少的代码混淆， 就自己尝试的自己写了一个，目前文件路径可将文件直接拖进去。
 <div align=center><img src="https://github.com/2621532542/iOS_NQConfuseTool/blob/master/%E6%88%AA%E5%B1%8F2019-11-25%E4%B8%8B%E5%8D%885.40.11.png" width = "888" height = "666"/></div></br>
 
 # MGTemplateEngine

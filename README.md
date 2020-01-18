@@ -24,7 +24,8 @@ MGTemplateEngine是mac平台下的一个代码生成器工具，根据模板和�
 	//Current dude is iain
 	//Current dude is neil
 	//Current dude is chris
-
+	
+	
 	Is 1 less than 2? {% if 1 < 2 %} Yes! {% else %} No? {% /if %}
 	//打印结果：Is 1 less than 2? Yes! 
 	

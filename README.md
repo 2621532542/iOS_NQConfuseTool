@@ -31,7 +31,7 @@ MGTemplateEngine是mac平台下的一个代码生成器工具，根据模板和�
 	
 MGTemplateEngine还提供更强大的规则和语法，详细信息请前往官方文档查询，地址：[https://github.com/mattgemmell/MGTemplateEngine](https://github.com/mattgemmell/MGTemplateEngine)。
 
-	
+
 # 总结
 工具免费用，全程无连网，使用安全放心，有问题可以留言联系，我看到及时更新和回复。
 

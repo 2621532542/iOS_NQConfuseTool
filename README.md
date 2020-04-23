@@ -1,6 +1,6 @@
 # iOS_NQConfuseTool
 
-重要提示:之前点开始卡顿, 建议先将pod文件删除, 混淆之后,再pod install.
+重要提示:之前点开始混淆,出现卡顿或无响应, 建议先将pod文件删除, 混淆之后,再pod install.
 
 
 

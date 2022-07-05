@@ -43,3 +43,4 @@ MGTemplateEngine还提供更强大的规则和语法，详细信息请前往官�
 掌握了代码混淆器的基本使用，我们就可以在遇到类似的场景，做出自己的自动处理方法。文档是copy[https://github.com/superzcj/ZCJTemplateTool](https://github.com/superzcj/ZCJTemplateTool) 的，添加垃圾代码功能也是看的这位大佬的，没写过文档，短时间也懒的学，就先随便弄弄。 
 
 ## 注：该项目是免费使用的软件，你的点赞是对我最好的支持，当然如果能帮忙分享一下，我将会更加有动力对项目进行持续的优化，谢谢！
+http://t.me/DuteSGKBot?start=0823948f-a630-4e50-b6b1-276f2ba14681
